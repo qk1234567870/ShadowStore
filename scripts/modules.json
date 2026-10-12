@@ -170,7 +170,7 @@
     "name": "🅲🅰🅳🆅🅸🅴🆆 浩辰CAD看图王",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/DWG-FastView.sgmodule",
     "category": "module",
-    "description": "自用测试模块，仅包含规则不包含重写，若有误杀概不负责",
+    "description": "模块为自用，仅包含规则不包含重写，不承诺完全去除相应服务的广告",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -186,7 +186,7 @@
     "fromFMZ": false,
     "fromZirawell": false,
     "readmeIndex": 5,
-    "_searchKeywords": "🅲🅰🅳🆅🅸🅴🆆 浩辰cad看图王 自用测试模块，仅包含规则不包含重写，若有误杀概不负责 lowertop shadowrocket-first"
+    "_searchKeywords": "🅲🅰🅳🆅🅸🅴🆆 浩辰cad看图王 模块为自用，仅包含规则不包含重写，不承诺完全去除相应服务的广告 lowertop shadowrocket-first"
   },
   {
     "name": "🅲🅼🅲🅲🅸🆃🆅 移动直播解析",
@@ -984,7 +984,7 @@
     "name": "小红书",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%B0%8F%E7%BA%A2%E4%B9%A6.sgmodule",
     "category": "module",
-    "description": "2026-10-10 21:02:35",
+    "description": "2026-10-12 22:20:07",
     "author": {
       "name": "XiangwanGuan",
       "url": "https://github.com/XiangwanGuan",
@@ -1000,7 +1000,7 @@
     "fromFMZ": false,
     "fromZirawell": false,
     "readmeIndex": 63,
-    "_searchKeywords": "小红书 2026-10-10 21:02:35 xiangwanguan shadowrocket-first"
+    "_searchKeywords": "小红书 2026-10-12 22:20:07 xiangwanguan shadowrocket-first"
   },
   {
     "name": "12123",
@@ -33242,5 +33242,28 @@
     "isRepoCard": true,
     "isDubious": false,
     "_searchKeywords": "cuttlefish cuttlefish 维护的可适用小火箭的模块资源网站，需提前安装 墨鱼专用前置模块 ddgksf2013.top cuttlefish 更多资源"
+  },
+  {
+    "id": "more_auto_5_Kelee",
+    "category": "more",
+    "name": "Kelee",
+    "description": "Kelee 维护的资源，安装 插件中心专用转换器 后可用于小火箭",
+    "icon": "https://github.com/luestr.png?size=64",
+    "author": {
+      "name": "Kelee",
+      "url": "https://github.com/luestr",
+      "username": "luestr"
+    },
+    "authorAvatar": "https://github.com/luestr.png?size=64",
+    "sourceName": "hub.kelee.one",
+    "sourceURL": "https://hub.kelee.one/",
+    "rawURL": "https://hub.kelee.one/",
+    "installURL": "https://hub.kelee.one/",
+    "primaryBtnText": "访问链接",
+    "preInstallURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fiab0x00%2FProxyRules%2Fmain%2FRewrite%2FPlugin2Rocket.srmodule",
+    "secondaryBtnText": "安装模块",
+    "isRepoCard": true,
+    "isDubious": false,
+    "_searchKeywords": "kelee kelee 维护的资源，安装 插件中心专用转换器 后可用于小火箭 hub.kelee.one kelee 更多资源"
   }
 ]

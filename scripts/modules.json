@@ -368,7 +368,7 @@
     "name": "🅶🅸🆃🅷🅴🅻🅿 资源加速",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/GitHubCDN.sgmodule",
     "category": "module",
-    "description": "将 GitHub RAW 资源重定向至国内可用的镜像资源站。编辑参数可自定义切换 CDN 节点",
+    "description": "将 GitHub RAW 资源重定向至国内可用的镜像资源站，可一定程度上缓解节点问题导致的远程资源失效。编辑参数可自定义切换 CDN 节点",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -384,7 +384,7 @@
     "fromFMZ": false,
     "fromZirawell": false,
     "readmeIndex": 14,
-    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 资源加速 将 github raw 资源重定向至国内可用的镜像资源站。编辑参数可自定义切换 cdn 节点 lowertop shadowrocket-first"
+    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 资源加速 将 github raw 资源重定向至国内可用的镜像资源站，可一定程度上缓解节点问题导致的远程资源失效。编辑参数可自定义切换 cdn 节点 lowertop shadowrocket-first"
   },
   {
     "name": "🅶🅸🆃🅷🅴🅻🅿 私库助手",
